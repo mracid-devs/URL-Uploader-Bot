@@ -16,7 +16,7 @@
   ],
   "success_url": "https://telegram.me/BetaConverterBot",
   "website": "https://github.com/FayasKallekkad",
-  "repository": "https://github.com/FayasKallekkad/URL-Uploader-Bot",
+  "repository": "https://github.com/mracid-devs/URL-Uploader-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
